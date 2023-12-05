@@ -7,7 +7,7 @@ This project allows users to draw an infinite rainbow on a canvas. It includes f
 
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
+
 
 
 ## Features
